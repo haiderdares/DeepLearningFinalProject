@@ -1,4 +1,4 @@
-Deep Learning Final Project
+#Deep Learning Final Project
 
 Welcome to the GitHub repository for the final project of the Deep Learning and Neural Networks course (ASDS 5305). This repository contains our work on applying deep learning techniques to various datasets and documenting our findings.
 
@@ -10,20 +10,20 @@ Contributors
 
 The main contributors to this repository are:
 
-Haider Daresalamwala
+- Haider Daresalamwala
 
-Shreya Gupta
+- Shreya Gupta
 
-Manali Shetye
+- Manali Shetye
 
 Repository Structure
 
-notebooks/ - Contains Jupyter notebooks for each dataset
+- notebooks/ - Contains Jupyter notebooks for each dataset
 
-data/ - Stores dataset-related files (if applicable)
+- data/ - Stores dataset-related files (if applicable)
 
-results/ - Includes findings and model outputs
+- results/ - Includes findings and model outputs
 
-README.md - This file, providing an overview of the project
+- README.md - This file, providing an overview of the project
 
 Stay tuned for updates as we progress with our project!
